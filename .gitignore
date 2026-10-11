@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+
+# caches
+.cache/
+
+# logs
+*.log
+
+# Large downloaded CC0 texture assets (re-downloadable via s2_p0_download_cc0textures.py)
+cc0textures-512/
+cc0textures-512.zip
